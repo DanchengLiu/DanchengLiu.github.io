@@ -6,6 +6,8 @@
   }
 
   .topnav a {
+    float: left;
+    width: 20%;
     color: #f2f2f2;
     text-align: center;
     text-decoration: none;
