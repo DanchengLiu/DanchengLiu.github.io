@@ -15,16 +15,16 @@
   }
 
 .photo {
-    width: 35%;
+    width: 30%;
+    display: block;
 }
 
 .info {
-    width: 65%;
+    width: 60%;
+    display: block;
 }
 
 img {
     padding: 20px;
     display: inline-block;
-    width: 30%;
-    height: auto;
   }
