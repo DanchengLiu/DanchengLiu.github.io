@@ -14,10 +14,9 @@
     font-size: 25px;
   }
   
-  .image {
+img {
     padding: 0;
-    display: block;
-    float: left;
-    max-height: 30%;
-    max-width: 20%;
+    display: inline-block;
+    width: 25%;
+    height: auto;
   }
