@@ -12,7 +12,7 @@
     color: #f2f2f2;
     text-align: center;
     text-decoration: none;
-    font-size: 3vw;
+    font-size: 1.5vw;
   }
 .wrapper {
     display: flex;
@@ -25,6 +25,7 @@
     flex: 1;
     padding: 0px 100px 0px;
     text-align: center;
+    font-size: 1.5vw;
 }
 
 img {
