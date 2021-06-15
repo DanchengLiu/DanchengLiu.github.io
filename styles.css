@@ -13,3 +13,8 @@
     text-decoration: none;
     font-size: 25px;
   }
+  
+  .photo {
+      width: 30%;
+      height: width*1.5;
+  }
