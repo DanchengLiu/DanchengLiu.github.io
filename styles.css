@@ -14,10 +14,10 @@
     font-size: 25px;
   }
   
-  .photo {
+  .image {
     padding: 0;
     display: block;
-    margin: 0 auto;
+    float: left;
     max-height: 30%;
-    max-width: 40%;
+    max-width: 20%;
   }
