@@ -13,7 +13,15 @@
     text-decoration: none;
     font-size: 25px;
   }
-  
+
+.photo {
+    width: 35%;
+}
+
+.info {
+    width: 65%;
+}
+
 img {
     padding: 20px;
     display: inline-block;
