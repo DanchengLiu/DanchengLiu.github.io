@@ -16,6 +16,8 @@
   }
 .wrapper {
     display: flex;
+    width: 50%;
+    margin: 0 auto;
 }
 .photo {
     flex: 0 0 30%;
