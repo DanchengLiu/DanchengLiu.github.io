@@ -33,3 +33,8 @@ img {
     width: 100%;
     height: auto;
   }
+
+.intro {
+  font-size: 1.5vw;
+  font: 1em sans-serif;
+}
