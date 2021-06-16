@@ -57,4 +57,7 @@ img {
     font-size: 1.5vw;
     font: 1em sans-serif;
   }
+  .info {
+    font-size: 2vw;  
+  }
 }
