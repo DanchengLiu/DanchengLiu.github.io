@@ -21,13 +21,15 @@
 }
 .photo {
     flex: 0 0 30%;
+    padding: 100px 0px;
 }
 
-.info {
+.intro_div {
     flex: 1;
-    padding: 0px 100px 0px;
-    text-align: center;
-    font-size: 1vw;
+    padding: 100px 50px;
+    text-align: left;
+    font-size: 1.5vw;
+    font: 1em sans-serif;
 }
 
 img {
@@ -36,7 +38,6 @@ img {
     height: auto;
   }
 
-.intro {
-  font-size: 1.5vw;
-  font: 1em sans-serif;
+.info {
+  font-size: 1vw;  
 }
