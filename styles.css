@@ -19,9 +19,11 @@
     width: 50%;
     margin: 0 auto;
 }
+
+
 .photo {
-    flex: 0 0 30%;
-    padding: 100px 0px;
+  flex: 0 0 30%;
+  padding: 100px 0px;
 }
 
 .intro_div {
@@ -40,4 +42,19 @@ img {
 
 .info {
   font-size: 1vw;  
+}
+
+@media only screen and (max-width: 768px) {
+  .wrapper{
+    width: 100%;
+  }
+  .photo {
+    padding: 2vh 0px;
+  }
+  .intro_div {
+    padding: 2vh 0px;
+    text-align: left;
+    font-size: 1.5vw;
+    font: 1em sans-serif;
+  }
 }
