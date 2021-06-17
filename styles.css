@@ -21,6 +21,7 @@
     display: flex;
     width: 55%;
     margin: 0 auto;
+    font-size: 1.1vw;
 
 }
 
@@ -34,9 +35,9 @@
     flex: 1;
     padding: 100px 50px;
     text-align: left;
-    font-size: 1.5vw;
+
     font: 1em sans-serif;
-    line-height: 1.8;
+    line-height: 1.5;
 }
 
 img {
@@ -74,6 +75,7 @@ img {
 @media only screen and (max-width: 1200px) {
   .wrapper{
     width: 100%;
+    font-size: 1.5vw;
   }
   .photo {
     padding: 2vh 0px;
@@ -81,9 +83,10 @@ img {
   .intro_div {
     padding: 2vh 0px;
     text-align: left;
-    font-size: 1.5vw;
+    line-height: 1.5;
     font: 1em sans-serif;
   }
+
   .info {
     font-size: 2vw;  
   }
