@@ -75,7 +75,7 @@ img {
 @media only screen and (max-width: 1200px) {
   .wrapper{
     width: 100%;
-    font-size: 1.5vw;
+    font-size: 2.5vw;
   }
   .photo {
     padding: 2vh 0px;
