@@ -21,6 +21,7 @@
     display: flex;
     width: 50%;
     margin: 0 auto;
+
 }
 
 
@@ -43,8 +44,21 @@ img {
     height: auto;
   }
 
+.body{
+  background-color: #00A4C9;
+}
+
+.body2{
+  background-color: rgb(164, 215, 245); 
+}
+
 .info {
-  font-size: 1vw;  
+  font-size: 1vw; 
+  background-color: rgb(164, 215, 245); 
+  width:40%;
+  height:50%;
+  margin: 0 auto;
+  text-align: center;
 }
 
 .exp {
